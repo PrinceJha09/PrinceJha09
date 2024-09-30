@@ -1,0 +1,4 @@
+- Hi, I’m Prince Kumar Jha (@PrinceJha09)
+- Currently, pursuing B.Tech in CSE (2nd year) from NIT Patna.
+- I’m interested in Web Development, Data Structures and Algorithms, Competitive Programming.
+- Also an AI/ML enthusiast but yet to start those things.
